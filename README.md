@@ -35,6 +35,12 @@ Current public goals:
 - [Roadmap](docs/roadmap.md)
 - [Security notes](SECURITY.md)
 
+## Public website
+
+The product page is published in the OING Software catalog:
+
+- https://oing.xin/software/ai-task-control-keyboard/
+
 ## License
 
 The contents of this repository are reserved unless a file states otherwise. See [LICENSE](LICENSE).
